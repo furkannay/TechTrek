@@ -19,6 +19,7 @@ const Services = () => {
 
   return (
     <div className="services-container">
+      <h2 className="product-title">TechTrekX Smartphone</h2> {/* Product title added here */}
       {servicesData.map(service => (
         <div key={service.id} className="service-card">
           <div className="service-image">
