@@ -9,7 +9,11 @@
 
 
 }
-
+.product-title {
+  text-align: center;
+  font-size: 5vw;
+  color: rgb(210, 210, 210);
+}
 .service-card {
   width: 60%;
   display: flex;
