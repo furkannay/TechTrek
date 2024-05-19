@@ -2,7 +2,7 @@
 
 This is a web application developed for the launch of TechTrek's latest innovative smartphone, the TechTrekX. The application provides detailed information about the TechTrekX, allows users to place pre-orders, and offers the latest news updates regarding the product.
 
-You can see the site [here](https://web-wizards-studios-seven.vercel.app)
+You can see the site [here](https://tech-trek-jet.vercel.app)
 
 ## Page Content
 
